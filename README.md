@@ -8,3 +8,4 @@
 - ng update
 - ng update --all
 - ng add @nguniversal/express-engine --clientProject angular-universal
+- npm run build:ssr
